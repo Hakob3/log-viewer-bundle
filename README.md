@@ -10,7 +10,7 @@ Upgrading from a version older than 1.4 will break your log patterns. See [break
 ## Installation
 Install the package with:
 ```console
-composer require evotodi/log-viewer-bundle
+composer require Hakob3/log-viewer-bundle
 ```
 ##  Configuration
 
